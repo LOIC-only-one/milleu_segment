@@ -1,5 +1,4 @@
 #python3
-#Loïc Maurer 2nd1
 jeu_lance = True
 #OFF-st
 print('''
